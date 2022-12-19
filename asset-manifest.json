@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Nikmaunt/weather-app-react.git/static/css/main.74edcce8.css",
-    "main.js": "/Nikmaunt/weather-app-react.git/static/js/main.168314fb.js",
-    "static/media/backgroundImage.jpg": "/Nikmaunt/weather-app-react.git/static/media/backgroundImage.06d2868ad68f5f0a2e1b.jpg",
-    "index.html": "/Nikmaunt/weather-app-react.git/index.html",
-    "main.74edcce8.css.map": "/Nikmaunt/weather-app-react.git/static/css/main.74edcce8.css.map",
-    "main.168314fb.js.map": "/Nikmaunt/weather-app-react.git/static/js/main.168314fb.js.map"
+    "main.css": "/weather-app-react/static/css/main.14f0e0f8.css",
+    "main.js": "/weather-app-react/static/js/main.168314fb.js",
+    "static/media/backgroundImage.jpg": "/weather-app-react/static/media/backgroundImage.06d2868ad68f5f0a2e1b.jpg",
+    "index.html": "/weather-app-react/index.html",
+    "main.14f0e0f8.css.map": "/weather-app-react/static/css/main.14f0e0f8.css.map",
+    "main.168314fb.js.map": "/weather-app-react/static/js/main.168314fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.74edcce8.css",
+    "static/css/main.14f0e0f8.css",
     "static/js/main.168314fb.js"
   ]
 }
