@@ -1,4 +1,4 @@
-import React, {useCallback,KeyboardEvent, useState} from 'react';
+import React, {KeyboardEvent, useState} from 'react';
 import axios from 'axios'
 
 
@@ -42,7 +42,7 @@ function App() {
                         {data.current ? <p>{data.current.condition.text}</p> : null }
                     </div>
                 </div>
-                { data.location != undefined &&
+                { data.location !== undefined &&
                     <div className="bottom">
                     <div className="feels">
                         {data.current ? <p className='bold'>{data.current.feelslike_c.toFixed()}°C</p> : null }
