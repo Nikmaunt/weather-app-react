@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Nikmaunt/weather-app-react.git/static/css/main.74edcce8.css",
+    "main.js": "/Nikmaunt/weather-app-react.git/static/js/main.9c15fec9.js",
+    "static/media/backgroundImage.jpg": "/Nikmaunt/weather-app-react.git/static/media/backgroundImage.06d2868ad68f5f0a2e1b.jpg",
+    "index.html": "/Nikmaunt/weather-app-react.git/index.html",
+    "main.74edcce8.css.map": "/Nikmaunt/weather-app-react.git/static/css/main.74edcce8.css.map",
+    "main.9c15fec9.js.map": "/Nikmaunt/weather-app-react.git/static/js/main.9c15fec9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74edcce8.css",
+    "static/js/main.9c15fec9.js"
+  ]
+}
