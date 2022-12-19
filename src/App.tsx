@@ -42,7 +42,6 @@ function App() {
                         {data.current ? <p>{data.current.condition.text}</p> : null }
                     </div>
                 </div>
-
                 { data.location != undefined &&
                     <div className="bottom">
                     <div className="feels">
